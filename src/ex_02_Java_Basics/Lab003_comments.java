@@ -1,11 +1,15 @@
 package ex_02_Java_Basics;
 
 public class Lab003_comments {
-   public static void main() {
-        //my name is joyson
+   public static void main(String[] args) {
+       //my name is joyson
+       //single line comment
        //welcome to java
        /*
-      */
-       System.out.println("welcome");
-    }
+       multi line comment
+        */
+       System.out.print("8-78");
+       System.out.println("ok");
+       //keywords package, public, static, void
+   }
 }
