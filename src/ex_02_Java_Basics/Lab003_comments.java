@@ -13,3 +13,10 @@ public class Lab003_comments {
        //keywords package, public, static, void
    }
 }
+/*
+package cool;
+public class javamain {
+    public static void main(String[] args){
+        System.out.println("my name is joyson");
+    }
+}*/
