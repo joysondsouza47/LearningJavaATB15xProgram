@@ -1,6 +1,6 @@
 package ex_03_Java_Basics;
 
-public class Lab_005_Printf {
+public class Lab005_Printf {
     public static void main() {
         int num = 9;
 
@@ -14,7 +14,7 @@ public class Lab_005_Printf {
         System.out.printf("%d x  6 = %d%n",num,num*6);
         System.out.printf("%d x  7 = %d%n",num,num*7);
         System.out.printf("%d x  8 = %d%n",num,num*8);
-        System.out.printf("%d x  9 = %d%n",num,num*8);
+        System.out.printf("%d x  9 = %d%n",num,num*9);
         System.out.printf("%d x 10 = %d",num,num*10);
 
     }
