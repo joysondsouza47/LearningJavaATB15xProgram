@@ -15,7 +15,12 @@ public class Lab005_Printf {
         System.out.printf("%d x  7 = %d%n",num,num*7);
         System.out.printf("%d x  8 = %d%n",num,num*8);
         System.out.printf("%d x  9 = %d%n",num,num*9);
-        System.out.printf("%d x 10 = %d",num,num*10);
+        System.out.printf("%d x 10 = %d%n",num,num*10);
 
+        System.out.println("my name is joyson\ncurrently am working in IT"); // new line
+        System.out.println("hello\tworld"); // tab space
+        System.out.println("hello world");  // normal space
+        System.out.println("helloo\b world"); // remove a char
+        System.out.println("hello\rworld");  // Carriage Return delete characters in front
     }
 }
