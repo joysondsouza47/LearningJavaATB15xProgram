@@ -69,8 +69,5 @@ public class Lab006_Operators {
         boolean loggedin = false;
         String loginstatus = (!loggedin)? "welcome" : "bye";
         System.out.println(loginstatus);
-
-
-
     }
 }
