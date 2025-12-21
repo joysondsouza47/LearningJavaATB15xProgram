@@ -1,4 +1,4 @@
-package ex_03_Java_Basics;
+package ex_03_Core_Java;
 
 public class Lab003_Constants {
     public static void main() {

@@ -1,4 +1,4 @@
-package ex_03_Java_Basics;
+package ex_03_Core_Java;
 
 public class Lab005_Printf {
     public static void main() {

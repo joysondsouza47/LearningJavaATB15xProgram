@@ -1,4 +1,4 @@
-package ex_03_Java_Basics;
+package ex_03_Core_Java;
 
 public class Lab006_Operators {
     public static void main (String[] args){
