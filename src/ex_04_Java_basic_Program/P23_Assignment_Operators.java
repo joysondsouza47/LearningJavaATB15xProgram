@@ -7,7 +7,6 @@ public class P23_Assignment_Operators {
         int c = 30;
         int d = 40;
         int e = 25;
-
         a = 20;
         b += 10;
         c -= 20;
