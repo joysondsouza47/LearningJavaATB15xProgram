@@ -5,12 +5,13 @@ public class P01_Reverse_String {
     static void main() {
 
         // method 1
-        String S1 = "welcome";
-        String rev = "";
-        for (int i = S1.length() - 1; i >= 0; i--) {
-            rev = rev + S1.charAt(i);
+        String s = "joyson";
+        String reverse = "";
+        for( int i = s.length()-1; i>=0 ; i--)
+        {
+            reverse += s.charAt(i);
         }
-        System.out.println(rev);
+        System.out.println(reverse);
 
         // method 2
         // toCharArray() // this will convert string character type to array
@@ -26,8 +27,8 @@ public class P01_Reverse_String {
 
         // in java there is no reverse method
 
-        StringBuffer s= new StringBuffer("welcome");
-        System.out.println(s.reverse());
+        StringBuffer s1= new StringBuffer("welcome");
+        System.out.println(s1.reverse());
 
         StringBuilder s2 = new StringBuilder("welcome");
         System.out.println(s2.reverse());

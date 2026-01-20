@@ -1,4 +1,4 @@
-package ex_08_String_Basics;
+package ex_08_Strings;
 
 import java.util.Arrays;
 
