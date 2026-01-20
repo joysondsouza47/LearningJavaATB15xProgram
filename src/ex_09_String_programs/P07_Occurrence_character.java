@@ -1,6 +1,6 @@
 package ex_09_String_programs;
 
-public class p07_Occurrence_character {
+public class P07_Occurrence_character {
     public static void main(String[] args)
     {
         String s = "joyson  dsouza";
