@@ -8,5 +8,6 @@ public class main2 {
         obj1.m3();
         obj1.m5();
         inter1.m4();
+
     }
 }
