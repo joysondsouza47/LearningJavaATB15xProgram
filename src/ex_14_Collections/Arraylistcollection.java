@@ -7,8 +7,8 @@ public class Arraylistcollection {
 
     public static void main(String[] args)
     {
-        //Declaration
-        ArrayList ar = new ArrayList();
+        //Declaration // initial capacity can also be given
+        ArrayList ar = new ArrayList(2);
         List ar1 = new ArrayList();
         ar.add(100);
         ar.add(10.5);
