@@ -1,7 +1,5 @@
 package ex_14_Collections;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
+import java.util.*;
 
 public class HashMapCollection {
     public static void main(String[] args)
@@ -11,7 +9,7 @@ public class HashMapCollection {
 
         hm.put(101,"joyson");
         hm.put(102,"smith");
-        hm.put(103,"don");
+        hm.put(101,"don");
         hm.put(104,"deepak");
         hm.put(102,"will smith");
 
@@ -57,7 +55,7 @@ public class HashMapCollection {
         System.out.println("----------------------------");
         hm.clear();
         System.out.println(hm.isEmpty());
-
+        System.out.println("---------------END-----------------");
 
     }
 }
