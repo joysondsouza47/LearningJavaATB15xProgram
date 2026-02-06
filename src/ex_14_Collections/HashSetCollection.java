@@ -61,7 +61,7 @@ public class HashSetCollection {
 
         System.out.println(hs.isEmpty());
 
-
+        System.out.println("************************");
 
     }
 }
