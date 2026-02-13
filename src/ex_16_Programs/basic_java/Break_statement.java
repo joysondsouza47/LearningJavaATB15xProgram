@@ -1,0 +1,14 @@
+package ex_16_Programs.basic_java;
+
+public class Break_statement {
+    public static void main(String[] args)
+    {
+        for(int i=0; i<=10; i++)
+        {
+            if(i==5){
+                break;
+            }
+            System.out.println(i);
+        }
+    }
+}
