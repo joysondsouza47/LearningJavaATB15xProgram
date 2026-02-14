@@ -17,5 +17,7 @@ public class Arithmetic_2numbers {
         System.out.println((a*b)+":Multiplication of two numbers");
         System.out.println((a/b)+":Division of two numbers");
         System.out.println((a%b)+":Remainder of two numbers");
+
+        System.out.println("-----END-----d");
     }
 }
