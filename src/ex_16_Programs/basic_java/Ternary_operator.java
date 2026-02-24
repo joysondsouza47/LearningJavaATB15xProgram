@@ -13,3 +13,6 @@ public class Ternary_operator {
         System.out.println(greaternum);
     }
 }
+
+
+// data
